@@ -1,0 +1,1 @@
+learned about variables const, let, var and when to use them. let and const are block scoped. Var is local scoped. i learned about function how to declare them with parameters and how to call them with arguments.
